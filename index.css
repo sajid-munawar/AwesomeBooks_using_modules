@@ -107,7 +107,7 @@ footer {
   padding: 0 1%;
 }
 
-#time {
+.date {
   display: flex;
   justify-content: flex-end;
 
